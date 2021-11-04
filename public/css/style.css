@@ -1,0 +1,50 @@
+.body, .navbar
+{
+    font-family: 'Bree Serif', serif;
+    background-color: #C14040;
+}
+
+.card {
+    background-color: #982C2C;
+}
+
+.card-text {
+    color: #FFF;
+}
+
+.btn {
+    width: 22%;
+    margin: 0.2rem;
+    padding: 1rem;
+}
+
+a, .navbar, .nav-link{ 
+    color: #FFF;
+    text-decoration: none; 
+}
+
+progress{
+    min-width: 100%; 
+    height: 25px; 
+    border-radius:5px;
+  }
+  
+  progress::-webkit-progress-value {
+    background: white;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #642B2B;
+  }
+
+  #pokemon_card {
+    max-width: 100%;
+    max-height: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    background-color: #992D2D;
+  }
+
+  table tbody tr {
+    line-height: 2.3rem;
+  }

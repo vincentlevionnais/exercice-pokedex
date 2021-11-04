@@ -1,0 +1,5 @@
+; Ce fichier ne sera pas transmis lors du git add/commit/push
+DB_HOST=localhost   
+DB_USERNAME=
+DB_PASSWORD=
+DB_NAME=
